@@ -1,14 +1,21 @@
 # npyto-mods
-Arma 3 for Пруто
+Arma 3
+KSP
 
-Collection of refined mods for Arma 3.
+Collection of refined mods for Arma 3, KSP.
 
-## npyto-mods installation
+## ARMA 3 installation
 
-* Download npyto_mods.html
+* Download arma3.html
 * Launch Arma 3
 * Open Mods tab in launcher
 * Click More...
 * Import list of mods from file...
+
+## KSP installation
+
+* Download ksp.ckan
+* Open CKAN
+* Import file
 
 ## npyt-mods simulation/scenario installation
