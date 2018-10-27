@@ -1,0 +1,284 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
+	"license": "unknown",
+	"version": "2018.10.27.01.52.16",
+	"identifier": "installed-auto",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "RemoteTechRedevAntennas"
+		},
+		{
+			"name": "AblativeAirbrake"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "AustrianSpaceAgency"
+		},
+		{
+			"name": "B9AerospaceHX"
+		},
+		{
+			"name": "CommunityPartsTitles"
+		},
+		{
+			"name": "TundraTechnologies"
+		},
+		{
+			"name": "TundraExploration"
+		},
+		{
+			"name": "ChattererExtended"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "DangerAlertsContinued"
+		},
+		{
+			"name": "CommNetAntennasExtension"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "HyperEdit"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "LaunchNumbering"
+		},
+		{
+			"name": "LSPFlags"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "SimpleAdjustableFairings"
+		},
+		{
+			"name": "ModularFuelTanks"
+		},
+		{
+			"name": "MunarIndustriesFTX"
+		},
+		{
+			"name": "NASA-CountDown"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "UKS"
+		},
+		{
+			"name": "USI-ART"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "USI-EXP"
+		},
+		{
+			"name": "USI-FTT"
+		},
+		{
+			"name": "USI-LS"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "SimpleAdjustableFairings-KWRocketry"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "PatchManager"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "B9AnimationModules"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "MarkIVSpaceplaneSystem"
+		},
+		{
+			"name": "KerbalGPSRevived"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "KerbalAtomics"
+		},
+		{
+			"name": "HeatControl"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "HangerExtenderExtended"
+		},
+		{
+			"name": "Konstruction"
+		},
+		{
+			"name": "GroundConstruction-Core"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "CameraTools"
+		},
+		{
+			"name": "CivilianPopulation"
+		},
+		{
+			"name": "CryoTanks"
+		},
+		{
+			"name": "ConstellationEssentials"
+		},
+		{
+			"name": "CryoEngines-LFO"
+		},
+		{
+			"name": "ExtendedAntennaProgression"
+		},
+		{
+			"name": "FederalProductions-Flags"
+		},
+		{
+			"name": "FlagPack"
+		},
+		{
+			"name": "GravityTurnContinued"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "Kerbalized-SpaceX"
+		},
+		{
+			"name": "KWRocketryRebalanced"
+		},
+		{
+			"name": "MissionController2"
+		},
+		{
+			"name": "CryoEngines"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "BetterScienceLabsContinued"
+		},
+		{
+			"name": "TweakableEverythingCont"
+		},
+		{
+			"name": "BargainRocketsCont"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "AugmentedReality"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "ABCORS"
+		},
+		{
+			"name": "SpaceXLegs"
+		},
+		{
+			"name": "ToadicusToolsContinued"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "B9-PWings-Fork"
+		},
+		{
+			"name": "Firespitter"
+		},
+		{
+			"name": "KerbalLaunchVehicles"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		}
+	]
+}
