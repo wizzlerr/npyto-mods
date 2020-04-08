@@ -12,8 +12,6 @@ Collection of refined mods for Arma 3, KSP.
 * Click More...
 * Import list of mods from file...
 
-Go to steam://connect/134.255.208.85:2302 to join Npyto arma 3 server
-
 ## KSP installation
 
 * Download ksp.ckan
